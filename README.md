@@ -1,4 +1,6 @@
-# Sudoku
+## EX NO:06
+## DATE:07.06.22
+# <p align="center">Sudoku
 
 ## Aim:
 To develop a code to solve a sudoku puzzle using contraint propagation
@@ -28,13 +30,9 @@ Repeat 3 and 4 until we get the solved puzzle.
 Calculate the time taken to solve the sudoku.
 
 ## Program:
-```
-/*
-Name: PRASHETHAA R
-Reg. No: 212220230036
-*/
-```
 ```python
+    Developed by:Prashethaa R
+    Register No :212220230036
 
 %matplotlib inline
 import matplotlib.pyplot as plt
